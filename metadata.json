@@ -1,0 +1,7 @@
+{
+  "name": "AI Life Assistant for Students",
+  "description": "An AI-powered productivity assistant for students featuring a study planner, flashcards, and an intelligent chatbot coach.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
